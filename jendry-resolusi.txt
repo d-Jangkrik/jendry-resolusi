@@ -2,3 +2,5 @@ JENDRY RESOLUSI
 - Belajar Coding PHP
 - Belajar Database MySQL
 - Belajar Framework Laravel
+- Belajar Rest API
+- Latihan Coding
